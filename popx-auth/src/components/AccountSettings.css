@@ -1,0 +1,32 @@
+.account-container {
+    width: 320px;
+    padding: 20px;
+    background: white;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-icon {
+    color: #6a0dad;
+    margin-bottom: 10px;
+  }
+  
+  h4 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .welcome-message {
+    font-size: 12px;
+    color: #444;
+    font-style: italic;
+  }
+  

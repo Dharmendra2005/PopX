@@ -10,7 +10,7 @@ function Signup({ setUser }) {
     email: "",
     password: "",
     company: "",
-    isAgency: "Yes",
+    isAgency: "",
   });
 
   const isFormValid = Object.values(formData).every((val) => val.trim() !== "");
